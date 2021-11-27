@@ -1,5 +1,6 @@
 # Advertisement-Data-Analysis
  In this project we will be working with a advertising data set, indicating whether or not a particular internet user clicked on an Advertisement on a company website. We will try to create a model that will predict whether or not they will click on an ad based off the features of that user.
  
- ![enter image description here](https://hbr.org/resources/images/article_assets/hbr/1303/R1303C_C_LG.gif)
+ ![enter image description here](http://storage.ning.com/topology/rest/1.0/file/get/2808315065?profile=RESIZE_1024x1024)
+
 
